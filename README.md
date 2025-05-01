@@ -2,7 +2,7 @@
 
 Team:
 * Daniel Armas Ramirez
-* Karlah Esther Escamilla
+* Karla Esther Escamilla Gachuz
 * Emiliano Prezas Bernal
 * Nathaly Dorado Alcala
 
